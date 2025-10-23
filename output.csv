@@ -1,0 +1,751 @@
+CellName,Latitude,Longitude,RRC_Att,RRC_Succ,Timing_Advance,tilt,state
+CELL1,38.130399,-77.513747,27,26,0.31,60,No action
+CELL2,38.130399,-77.513747,34,33,0.31,60,No action
+CELL3,38.130399,-77.513747,29,28,0.31,60,No action
+CELL4,38.194806,-77.501444,15,11,4.61,80,"Overshooter, cell downtilted 20 degrees"
+CELL5,38.194806,-77.501444,19,14,4.61,40,"Undershooter, cell uptilted 20 degrees"
+CELL6,38.194806,-77.501444,16,12,4.61,80,"Overshooter, cell downtilted 20 degrees"
+CELL7,38.234058,-77.548414,1,0,0.54,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL8,38.234058,-77.548414,1,0,0.54,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL9,38.234058,-77.548414,1,0,0.54,30,"Overshooter, cell downtilted 20 degrees"
+CELL10,38.258611,-77.501667,7,6,0.2,20,"Undershooter, cell uptilted 20 degrees"
+CELL11,38.258611,-77.501667,9,8,0.2,20,"Undershooter, cell uptilted 20 degrees"
+CELL12,38.258611,-77.501667,8,7,0.2,20,"Undershooter, cell uptilted 20 degrees"
+CELL13,38.275117,-77.517028,5,4,0.19,40,"Undershooter, cell uptilted 20 degrees"
+CELL14,38.275117,-77.517028,6,5,0.19,40,"Undershooter, cell uptilted 20 degrees"
+CELL15,38.275117,-77.517028,5,4,0.19,40,"Undershooter, cell uptilted 20 degrees"
+CELL16,38.305356,-77.507769,15,11,3.78,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL17,38.305356,-77.507769,19,14,3.78,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL18,38.305356,-77.507769,16,12,3.78,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL19,38.354547,-77.512797,4,3,3.93,40,"Undershooter, cell uptilted 20 degrees"
+CELL20,38.354547,-77.512797,5,4,3.93,80,"Overshooter, cell downtilted 20 degrees"
+CELL21,38.354547,-77.512797,4,3,3.93,80,"Overshooter, cell downtilted 20 degrees"
+CELL22,38.407208,-77.574263,2,1,15.14,70,"Overshooter, cell downtilted 20 degrees"
+CELL23,38.407208,-77.574263,3,1,15.14,70,"Overshooter, cell downtilted 20 degrees"
+CELL24,38.407208,-77.574263,2,1,15.14,70,"Overshooter, cell downtilted 20 degrees"
+CELL25,38.510431,-77.002058,6842,5952,0.45,70,"Undershooter, cell uptilted 20 degrees"
+CELL26,38.510431,-77.002058,8553,7440,0.45,70,"Undershooter, cell uptilted 20 degrees"
+CELL27,38.510431,-77.002058,7441,6473,0.45,70,"Undershooter, cell uptilted 20 degrees"
+CELL28,38.527054,-76.734276,6001,5040,17.94,40,"Overshooter, cell downtilted 20 degrees"
+CELL29,38.527054,-76.734276,7501,6300,17.94,40,"Overshooter, cell downtilted 20 degrees"
+CELL30,38.527054,-76.734276,6526,5481,17.94,40,"Overshooter, cell downtilted 20 degrees"
+CELL31,38.5359,-76.788011,2814,2532,0.84,70,"Undershooter, cell uptilted 20 degrees"
+CELL32,38.5359,-76.788011,3518,3165,0.84,70,"Undershooter, cell uptilted 20 degrees"
+CELL33,38.5359,-76.788011,3060,2754,0.84,90,No action
+CELL34,38.55655,-76.838452,470,441,0.78,70,No action
+CELL35,38.55655,-76.838452,588,551,0.78,70,No action
+CELL36,38.55655,-76.838452,511,480,0.78,70,No action
+CELL37,38.578306,-77.109103,3906,3398,0.85,20,"Undershooter, cell uptilted 20 degrees"
+CELL38,38.578306,-77.109103,4883,4248,0.85,20,"Undershooter, cell uptilted 20 degrees"
+CELL39,38.578306,-77.109103,4248,3695,0.85,20,"Undershooter, cell uptilted 20 degrees"
+CELL40,38.599218,-77.020043,2308,1754,6.35,70,"Overshooter, cell downtilted 20 degrees"
+CELL41,38.599218,-77.020043,2885,2193,6.35,70,"Overshooter, cell downtilted 20 degrees"
+CELL42,38.599218,-77.020043,2510,1907,6.35,30,"Undershooter, cell uptilted 20 degrees"
+CELL43,38.6035,-77.34228,11568,9717,5.59,90,"Overshooter, cell downtilted 20 degrees"
+CELL44,38.6035,-77.34228,14460,12146,5.59,90,"Overshooter, cell downtilted 20 degrees"
+CELL45,38.6035,-77.34228,12580,10567,5.59,50,"Undershooter, cell uptilted 20 degrees"
+CELL46,38.62022,-77.290045,17866,16794,0.31,60,No action
+CELL47,38.62022,-77.290045,22333,20993,0.31,60,No action
+CELL48,38.62022,-77.290045,19429,18263,0.31,60,No action
+CELL49,38.635956,-77.3583,6986,6287,0.18,60,"Undershooter, cell uptilted 20 degrees"
+CELL50,38.635956,-77.3583,8733,7859,0.18,60,"Undershooter, cell uptilted 20 degrees"
+CELL51,38.635956,-77.3583,7597,6837,0.18,60,"Undershooter, cell uptilted 20 degrees"
+CELL52,38.66736,-77.40109,2463,2413,0.37,20,No action
+CELL53,38.66736,-77.40109,3079,3016,0.37,20,No action
+CELL54,38.66736,-77.40109,2679,2624,0.37,20,No action
+CELL55,38.668889,-77.009201,6882,5712,6.35,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL56,38.668889,-77.009201,8603,7140,6.35,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL57,38.668889,-77.009201,7484,6212,6.35,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL58,38.670905,-77.334358,3415,3312,0.28,30,No action
+CELL59,38.670905,-77.334358,4269,4140,0.28,30,No action
+CELL60,38.670905,-77.334358,3714,3602,0.28,30,No action
+CELL61,38.678222,-76.938083,844,742,0.7,70,"Undershooter, cell uptilted 20 degrees"
+CELL62,38.678222,-76.938083,1055,928,0.7,70,"Undershooter, cell uptilted 20 degrees"
+CELL63,38.678222,-76.938083,918,807,0.7,70,"Undershooter, cell uptilted 20 degrees"
+CELL64,38.680161,-77.303127,7703,7625,0.22,100,No action
+CELL65,38.680161,-77.303127,9629,9531,0.22,100,No action
+CELL66,38.680161,-77.303127,8377,8292,0.22,100,No action
+CELL67,38.680725,-77.354114,5915,4495,3.55,10,"Undershooter, cell uptilted 20 degrees"
+CELL68,38.680725,-77.354114,7394,5619,3.55,50,"Overshooter, cell downtilted 20 degrees"
+CELL69,38.680725,-77.354114,6433,4888,3.55,50,"Overshooter, cell downtilted 20 degrees"
+CELL70,38.68305,-77.2364,20352,18520,0.25,30,No action
+CELL71,38.68305,-77.2364,25440,23150,0.25,30,No action
+CELL72,38.68305,-77.2364,22133,20141,0.25,30,No action
+CELL73,38.6857,-77.3161,5339,4324,4.35,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL74,38.6857,-77.3161,6674,5405,4.35,30,"Overshooter, cell downtilted 20 degrees"
+CELL75,38.6857,-77.3161,5806,4702,4.35,30,"Overshooter, cell downtilted 20 degrees"
+CELL76,38.709794,-77.157203,2201,1716,9.0,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL77,38.709794,-77.157203,2751,2145,9.0,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL78,38.709794,-77.157203,2394,1866,9.0,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL79,38.7129,-77.460564,8800,7568,5.15,30,"Overshooter, cell downtilted 20 degrees"
+CELL80,38.7129,-77.460564,11000,9460,5.15,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL81,38.7129,-77.460564,9570,8230,5.15,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL82,38.714214,-76.988233,7492,6368,3.11,60,"Overshooter, cell downtilted 20 degrees"
+CELL83,38.714214,-76.988233,9365,7960,3.11,20,"Undershooter, cell uptilted 20 degrees"
+CELL84,38.714214,-76.988233,8148,6925,3.11,60,"Overshooter, cell downtilted 20 degrees"
+CELL85,38.732888,-77.418083,3664,2821,7.16,40,"Overshooter, cell downtilted 20 degrees"
+CELL86,38.732888,-77.418083,4580,3526,7.16,40,"Overshooter, cell downtilted 20 degrees"
+CELL87,38.732888,-77.418083,3985,3068,7.16,40,"Overshooter, cell downtilted 20 degrees"
+CELL88,38.740778,-76.817544,4338,3947,0.56,100,No action
+CELL89,38.740778,-76.817544,5423,4934,0.56,100,No action
+CELL90,38.740778,-76.817544,4718,4292,0.56,100,No action
+CELL91,38.743481,-77.243675,2275,2206,0.25,70,No action
+CELL92,38.743481,-77.243675,2844,2758,0.25,70,No action
+CELL93,38.743481,-77.243675,2474,2399,0.25,70,No action
+CELL94,38.743701,-76.994801,9209,8472,0.16,70,No action
+CELL95,38.743701,-76.994801,11511,10590,0.16,70,No action
+CELL96,38.743701,-76.994801,10015,9213,0.16,70,No action
+CELL97,38.745394,-77.529914,5925,4917,5.99,70,"Overshooter, cell downtilted 20 degrees"
+CELL98,38.745394,-77.529914,7406,6146,5.99,70,"Overshooter, cell downtilted 20 degrees"
+CELL99,38.745394,-77.529914,6443,5347,5.99,30,"Undershooter, cell uptilted 20 degrees"
+CELL100,38.751408,-76.97768,5807,5690,0.2,40,No action
+CELL101,38.751408,-76.97768,7259,7113,0.2,40,No action
+CELL102,38.751408,-76.97768,6315,6188,0.2,40,No action
+CELL103,38.756222,-76.764101,4748,4083,6.78,80,"Overshooter, cell downtilted 20 degrees"
+CELL104,38.756222,-76.764101,5935,5104,6.78,80,"Overshooter, cell downtilted 20 degrees"
+CELL105,38.756222,-76.764101,5163,4440,6.78,80,"Overshooter, cell downtilted 20 degrees"
+CELL106,38.759458,-77.622499,302,268,0.47,60,"Undershooter, cell uptilted 20 degrees"
+CELL107,38.759458,-77.622499,378,335,0.47,60,"Undershooter, cell uptilted 20 degrees"
+CELL108,38.759458,-77.622499,328,291,0.47,100,"Overshooter, cell downtilted 20 degrees"
+CELL109,38.761883,-77.0793,34785,27480,6.18,60,"Overshooter, cell downtilted 20 degrees"
+CELL110,38.761883,-77.0793,43481,34350,6.18,20,"Undershooter, cell uptilted 20 degrees"
+CELL111,38.761883,-77.0793,37829,29885,6.18,60,"Overshooter, cell downtilted 20 degrees"
+CELL112,38.767578,-77.479139,17168,16996,0.2,40,No action
+CELL113,38.767578,-77.479139,21460,21245,0.2,40,No action
+CELL114,38.767578,-77.479139,18670,18483,0.2,40,No action
+CELL115,38.769519,-77.443489,95564,85051,0.35,20,"Undershooter, cell uptilted 20 degrees"
+CELL116,38.769519,-77.443489,119455,106314,0.35,20,"Undershooter, cell uptilted 20 degrees"
+CELL117,38.769519,-77.443489,103926,92493,0.35,20,"Undershooter, cell uptilted 20 degrees"
+CELL118,38.774241,-77.263108,5740,4936,6.87,70,"Overshooter, cell downtilted 20 degrees"
+CELL119,38.774241,-77.263108,7175,6170,6.87,70,"Overshooter, cell downtilted 20 degrees"
+CELL120,38.774241,-77.263108,6242,5368,6.87,70,"Overshooter, cell downtilted 20 degrees"
+CELL121,38.776569,-77.467455,46298,42131,0.2,10,No action
+CELL122,38.776569,-77.467455,57873,52664,0.2,10,No action
+CELL123,38.776569,-77.467455,50349,45817,0.2,10,No action
+CELL124,38.779417,-77.202111,2424,1939,4.1,30,"Overshooter, cell downtilted 20 degrees"
+CELL125,38.779417,-77.202111,3030,2424,4.1,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL126,38.779417,-77.202111,2636,2109,4.1,30,"Overshooter, cell downtilted 20 degrees"
+CELL127,38.779799,-77.398733,65,52,4.96,30,"Overshooter, cell downtilted 20 degrees"
+CELL128,38.779799,-77.398733,81,65,4.96,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL129,38.779799,-77.398733,71,57,4.96,30,"Overshooter, cell downtilted 20 degrees"
+CELL130,38.780194,-77.13485,6784,6444,0.15,90,No action
+CELL131,38.780194,-77.13485,8480,8055,0.15,90,No action
+CELL132,38.780194,-77.13485,7378,7008,0.15,90,No action
+CELL133,38.784801,-77.514101,135978,119660,0.3,0,Tilt value cannot be decreased further
+CELL134,38.784801,-77.514101,169973,149575,0.3,0,Tilt value cannot be decreased further
+CELL135,38.784801,-77.514101,147876,130130,0.3,0,Tilt value cannot be decreased further
+CELL136,38.795,-77.595181,874,655,9.46,50,"Overshooter, cell downtilted 20 degrees"
+CELL137,38.795,-77.595181,1093,819,9.46,50,"Overshooter, cell downtilted 20 degrees"
+CELL138,38.795,-77.595181,950,712,9.46,50,"Overshooter, cell downtilted 20 degrees"
+CELL139,38.795646,-77.179248,56520,46346,3.92,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL140,38.795646,-77.179248,70650,57933,3.92,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL141,38.795646,-77.179248,61466,50401,3.92,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL142,38.805436,-76.907736,23614,21016,0.41,40,"Undershooter, cell uptilted 20 degrees"
+CELL143,38.805436,-76.907736,29518,26270,0.41,40,"Undershooter, cell uptilted 20 degrees"
+CELL144,38.805436,-76.907736,25680,22855,0.41,40,"Undershooter, cell uptilted 20 degrees"
+CELL145,38.805874,-76.978026,109322,99483,0.2,70,No action
+CELL146,38.805874,-76.978026,136653,124354,0.2,70,No action
+CELL147,38.805874,-76.978026,118888,108188,0.2,70,No action
+CELL148,38.806092,-77.218975,18391,16184,0.3,60,"Undershooter, cell uptilted 20 degrees"
+CELL149,38.806092,-77.218975,22989,20230,0.3,60,"Undershooter, cell uptilted 20 degrees"
+CELL150,38.806092,-77.218975,20000,17600,0.3,60,"Undershooter, cell uptilted 20 degrees"
+CELL151,38.807801,-77.141305,22516,19363,2.97,50,"Overshooter, cell downtilted 20 degrees"
+CELL152,38.807801,-77.141305,28145,24204,2.97,50,"Overshooter, cell downtilted 20 degrees"
+CELL153,38.807801,-77.141305,24486,21057,2.97,50,"Overshooter, cell downtilted 20 degrees"
+CELL154,38.809061,-76.605778,3668,2971,12.87,40,"Overshooter, cell downtilted 20 degrees"
+CELL155,38.809061,-76.605778,4585,3714,12.87,40,"Overshooter, cell downtilted 20 degrees"
+CELL156,38.809061,-76.605778,3989,3231,12.87,40,"Overshooter, cell downtilted 20 degrees"
+CELL157,38.818583,-76.778556,5257,5099,0.19,80,No action
+CELL158,38.818583,-76.778556,6571,6374,0.19,80,No action
+CELL159,38.818583,-76.778556,5717,5545,0.19,80,No action
+CELL160,38.820925,-77.168931,19860,18867,0.2,10,No action
+CELL161,38.820925,-77.168931,24825,23584,0.2,10,No action
+CELL162,38.820925,-77.168931,21598,20518,0.2,10,No action
+CELL163,38.824244,-77.410022,5009,3957,4.96,60,"Overshooter, cell downtilted 20 degrees"
+CELL164,38.824244,-77.410022,6261,4946,4.96,60,"Overshooter, cell downtilted 20 degrees"
+CELL165,38.824244,-77.410022,5447,4303,4.96,60,"Overshooter, cell downtilted 20 degrees"
+CELL166,38.827677,-77.090551,10707,9850,0.28,40,No action
+CELL167,38.827677,-77.090551,13384,12313,0.28,40,No action
+CELL168,38.827677,-77.090551,11644,10712,0.28,40,No action
+CELL169,38.833664,-77.199563,12868,9908,3.96,30,"Overshooter, cell downtilted 20 degrees"
+CELL170,38.833664,-77.199563,16085,12385,3.96,30,"Overshooter, cell downtilted 20 degrees"
+CELL171,38.833664,-77.199563,13994,10775,3.96,30,"Overshooter, cell downtilted 20 degrees"
+CELL172,38.834101,-77.062401,12138,9103,3.48,20,"Overshooter, cell downtilted 20 degrees"
+CELL173,38.834101,-77.062401,15173,11379,3.48,20,"Overshooter, cell downtilted 20 degrees"
+CELL174,38.834101,-77.062401,13200,9900,3.48,20,"Overshooter, cell downtilted 20 degrees"
+CELL175,38.836028,-76.994117,51852,49777,0.09,30,No action
+CELL176,38.836028,-76.994117,64815,62221,0.09,30,No action
+CELL177,38.836028,-76.994117,56389,54132,0.09,30,No action
+CELL178,38.837012,-77.051989,4575,4392,0.17,0,No action
+CELL179,38.837012,-77.051989,5719,5490,0.17,0,No action
+CELL180,38.837012,-77.051989,4975,4776,0.17,0,No action
+CELL181,38.849017,-76.769342,4824,4486,0.19,90,No action
+CELL182,38.849017,-76.769342,6030,5608,0.19,90,No action
+CELL183,38.849017,-76.769342,5246,4879,0.19,90,No action
+CELL184,38.849152,-76.861444,7662,7585,0.26,80,No action
+CELL185,38.849152,-76.861444,9578,9481,0.26,80,No action
+CELL186,38.849152,-76.861444,8332,8249,0.26,80,No action
+CELL187,38.849927,-76.724955,1208,1159,0.35,40,No action
+CELL188,38.849927,-76.724955,1510,1449,0.35,40,No action
+CELL189,38.849927,-76.724955,1314,1260,0.35,40,No action
+CELL190,38.851503,-77.370647,6857,5828,10.04,60,"Overshooter, cell downtilted 20 degrees"
+CELL191,38.851503,-77.370647,8571,7285,10.04,60,"Overshooter, cell downtilted 20 degrees"
+CELL192,38.851503,-77.370647,7457,6338,10.04,60,"Overshooter, cell downtilted 20 degrees"
+CELL193,38.856845,-76.991991,35903,29081,1.72,30,"Overshooter, cell downtilted 20 degrees"
+CELL194,38.856845,-76.991991,44879,36351,1.72,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL195,38.856845,-76.991991,39045,31626,1.72,30,"Overshooter, cell downtilted 20 degrees"
+CELL196,38.862069,-77.286847,4199,3779,0.16,40,"Undershooter, cell uptilted 20 degrees"
+CELL197,38.862069,-77.286847,5249,4724,0.16,40,"Undershooter, cell uptilted 20 degrees"
+CELL198,38.862069,-77.286847,4566,4110,0.16,60,No action
+CELL199,38.862389,-76.844889,4077,3261,5.61,100,"Overshooter, cell downtilted 20 degrees"
+CELL200,38.862389,-76.844889,5096,4076,5.61,100,"Overshooter, cell downtilted 20 degrees"
+CELL201,38.862389,-76.844889,4434,3546,5.61,100,"Overshooter, cell downtilted 20 degrees"
+CELL202,38.864727,-77.076005,12862,11447,0.13,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL203,38.864727,-77.076005,16078,14309,0.13,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL204,38.864727,-77.076005,13987,12449,0.13,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL205,38.874289,-77.148468,94440,71774,4.69,30,"Overshooter, cell downtilted 20 degrees"
+CELL206,38.874289,-77.148468,118050,89718,4.69,30,"Overshooter, cell downtilted 20 degrees"
+CELL207,38.874289,-77.148468,102704,78054,4.69,30,"Overshooter, cell downtilted 20 degrees"
+CELL208,38.877067,-77.003906,26166,21194,2.17,20,"Overshooter, cell downtilted 20 degrees"
+CELL209,38.877067,-77.003906,32708,26493,2.17,20,"Overshooter, cell downtilted 20 degrees"
+CELL210,38.877067,-77.003906,28456,23048,2.17,0,Tilt value cannot be decreased further
+CELL211,38.882337,-76.964483,29349,23479,4.91,90,"Overshooter, cell downtilted 20 degrees"
+CELL212,38.882337,-76.964483,36686,29349,4.91,50,"Undershooter, cell uptilted 20 degrees"
+CELL213,38.882337,-76.964483,31917,25533,4.91,90,"Overshooter, cell downtilted 20 degrees"
+CELL214,38.883467,-76.826572,26359,19769,6.32,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL215,38.883467,-76.826572,32949,24711,6.32,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL216,38.883467,-76.826572,28665,21499,6.32,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL217,38.883667,-77.442644,17988,14210,8.28,30,"Overshooter, cell downtilted 20 degrees"
+CELL218,38.883667,-77.442644,22485,17763,8.28,30,"Overshooter, cell downtilted 20 degrees"
+CELL219,38.883667,-77.442644,19562,15453,8.28,30,"Overshooter, cell downtilted 20 degrees"
+CELL220,38.885694,-76.997701,7086,6448,0.08,30,No action
+CELL221,38.885694,-76.997701,8858,8060,0.08,30,No action
+CELL222,38.885694,-76.997701,7706,7012,0.08,30,No action
+CELL223,38.887097,-77.200511,28074,22459,3.96,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL224,38.887097,-77.200511,35093,28074,3.96,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL225,38.887097,-77.200511,30530,24424,3.96,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL226,38.887561,-77.239875,9902,8812,0.2,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL227,38.887561,-77.239875,12378,11015,0.2,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL228,38.887561,-77.239875,10768,9583,0.2,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL229,38.890054,-77.081348,9582,8623,0.13,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL230,38.890054,-77.081348,11978,10779,0.13,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL231,38.890054,-77.081348,10420,9378,0.13,10,No action
+CELL232,38.890243,-76.980411,3110,2425,1.3,70,"Overshooter, cell downtilted 20 degrees"
+CELL233,38.890243,-76.980411,3888,3031,1.3,30,"Undershooter, cell uptilted 20 degrees"
+CELL234,38.890243,-76.980411,3382,2637,1.3,30,"Undershooter, cell uptilted 20 degrees"
+CELL235,38.890672,-76.873956,7040,6969,0.26,40,No action
+CELL236,38.890672,-76.873956,8800,8711,0.26,40,No action
+CELL237,38.890672,-76.873956,7656,7579,0.26,40,No action
+CELL238,38.895683,-77.099561,959,834,4.8,70,"Overshooter, cell downtilted 20 degrees"
+CELL239,38.895683,-77.099561,1199,1043,4.8,70,"Overshooter, cell downtilted 20 degrees"
+CELL240,38.895683,-77.099561,1043,907,4.8,70,"Overshooter, cell downtilted 20 degrees"
+CELL241,38.895805,-77.135146,8409,7736,0.0,80,No action
+CELL242,38.895805,-77.135146,10511,9670,0.0,80,No action
+CELL243,38.895805,-77.135146,9145,8413,0.0,80,No action
+CELL244,38.895913,-77.135242,2140,1690,0.03,80,"Undershooter, cell uptilted 20 degrees"
+CELL245,38.895913,-77.135242,2675,2113,0.03,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL246,38.895913,-77.135242,2327,1838,0.03,80,"Undershooter, cell uptilted 20 degrees"
+CELL247,38.896335,-77.281075,9201,7268,3.17,80,"Overshooter, cell downtilted 20 degrees"
+CELL248,38.896335,-77.281075,11501,9085,3.17,40,"Undershooter, cell uptilted 20 degrees"
+CELL249,38.896335,-77.281075,10006,7904,3.17,80,"Overshooter, cell downtilted 20 degrees"
+CELL250,38.898825,-77.113922,1610,1207,4.8,90,"Overshooter, cell downtilted 20 degrees"
+CELL251,38.898825,-77.113922,2013,1509,4.8,90,"Overshooter, cell downtilted 20 degrees"
+CELL252,38.898825,-77.113922,1751,1313,4.8,90,"Overshooter, cell downtilted 20 degrees"
+CELL253,38.899239,-76.993735,7406,6961,0.08,20,No action
+CELL254,38.899239,-76.993735,9258,8701,0.08,20,No action
+CELL255,38.899239,-76.993735,8054,7570,0.08,20,No action
+CELL256,38.900614,-76.983533,36423,29502,1.3,20,"Undershooter, cell uptilted 20 degrees"
+CELL257,38.900614,-76.983533,45529,36878,1.3,60,"Overshooter, cell downtilted 20 degrees"
+CELL258,38.900614,-76.983533,39610,32083,1.3,60,"Overshooter, cell downtilted 20 degrees"
+CELL259,38.903442,-77.053611,8527,8015,0.11,70,No action
+CELL260,38.903442,-77.053611,10659,10019,0.11,70,No action
+CELL261,38.903442,-77.053611,9273,8716,0.11,70,No action
+CELL262,38.904297,-77.028758,16426,15768,0.07,50,No action
+CELL263,38.904297,-77.028758,20533,19710,0.07,50,No action
+CELL264,38.904297,-77.028758,17863,17148,0.07,50,No action
+CELL265,38.905128,-76.917622,38068,29693,4.37,50,"Overshooter, cell downtilted 20 degrees"
+CELL266,38.905128,-76.917622,47585,37116,4.37,50,"Overshooter, cell downtilted 20 degrees"
+CELL267,38.905128,-76.917622,41399,32291,4.37,10,"Undershooter, cell uptilted 20 degrees"
+CELL268,38.90596,-77.32412,499,384,6.14,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL269,38.90596,-77.32412,624,480,6.14,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL270,38.90596,-77.32412,543,418,6.14,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL271,38.909022,-76.5742,5075,4719,0.11,20,No action
+CELL272,38.909022,-76.5742,6344,5899,0.11,20,No action
+CELL273,38.909022,-76.5742,5519,5132,0.11,20,No action
+CELL274,38.909418,-77.04737,6346,6282,0.08,30,No action
+CELL275,38.909418,-77.04737,7933,7853,0.08,30,No action
+CELL276,38.909418,-77.04737,6901,6832,0.08,30,No action
+CELL277,38.915401,-76.904267,9469,8143,3.62,70,"Overshooter, cell downtilted 20 degrees"
+CELL278,38.915401,-76.904267,11836,10179,3.62,70,"Overshooter, cell downtilted 20 degrees"
+CELL279,38.915401,-76.904267,10298,8856,3.62,70,"Overshooter, cell downtilted 20 degrees"
+CELL280,38.921084,-76.930229,7465,5822,1.65,70,"Overshooter, cell downtilted 20 degrees"
+CELL281,38.921084,-76.930229,9331,7278,1.65,70,"Overshooter, cell downtilted 20 degrees"
+CELL282,38.921084,-76.930229,8118,6331,1.65,30,"Undershooter, cell uptilted 20 degrees"
+CELL283,38.922501,-77.043219,16636,15138,0.08,0,No action
+CELL284,38.922501,-77.043219,20795,18923,0.08,0,No action
+CELL285,38.922501,-77.043219,18092,16463,0.08,0,No action
+CELL286,38.923034,-77.228561,3091,2750,0.01,30,"Undershooter, cell uptilted 20 degrees"
+CELL287,38.923034,-77.228561,3864,3438,0.01,30,"Undershooter, cell uptilted 20 degrees"
+CELL288,38.923034,-77.228561,3361,2991,0.01,30,"Undershooter, cell uptilted 20 degrees"
+CELL289,38.923047,-77.228039,13979,11322,0.03,100,"Overshooter, cell downtilted 20 degrees"
+CELL290,38.923047,-77.228039,17474,14153,0.03,60,"Undershooter, cell uptilted 20 degrees"
+CELL291,38.923047,-77.228039,15202,12313,0.03,60,"Undershooter, cell uptilted 20 degrees"
+CELL292,38.923079,-77.029504,18293,14085,1.43,50,"Overshooter, cell downtilted 20 degrees"
+CELL293,38.923079,-77.029504,22866,17606,1.43,50,"Overshooter, cell downtilted 20 degrees"
+CELL294,38.923079,-77.029504,19894,15317,1.43,50,"Overshooter, cell downtilted 20 degrees"
+CELL295,38.923394,-77.228092,3578,3220,0.0,60,"Undershooter, cell uptilted 20 degrees"
+CELL296,38.923394,-77.228092,4473,4025,0.0,60,"Undershooter, cell uptilted 20 degrees"
+CELL297,38.923394,-77.228092,3891,3502,0.0,80,No action
+CELL298,38.924158,-77.185358,8103,6644,3.15,90,"Overshooter, cell downtilted 20 degrees"
+CELL299,38.924158,-77.185358,10129,8305,3.15,90,"Overshooter, cell downtilted 20 degrees"
+CELL300,38.924158,-77.185358,8812,7225,3.15,90,"Overshooter, cell downtilted 20 degrees"
+CELL301,38.928333,-76.578889,1611,1401,2.11,50,"Overshooter, cell downtilted 20 degrees"
+CELL302,38.928333,-76.578889,2014,1751,2.11,50,"Overshooter, cell downtilted 20 degrees"
+CELL303,38.928333,-76.578889,1752,1524,2.11,10,"Undershooter, cell uptilted 20 degrees"
+CELL304,38.929701,-76.893901,22898,22211,0.18,10,No action
+CELL305,38.929701,-76.893901,28623,27764,0.18,10,No action
+CELL306,38.929701,-76.893901,24902,24154,0.18,10,No action
+CELL307,38.929778,-77.247044,8149,6600,3.92,10,"Undershooter, cell uptilted 20 degrees"
+CELL308,38.929778,-77.247044,10186,8250,3.92,50,"Overshooter, cell downtilted 20 degrees"
+CELL309,38.929778,-77.247044,8862,7178,3.92,50,"Overshooter, cell downtilted 20 degrees"
+CELL310,38.932301,-77.036701,39732,30990,2.29,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL311,38.932301,-77.036701,49665,38738,2.29,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL312,38.932301,-77.036701,43209,33702,2.29,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL313,38.934261,-76.95555,30711,27025,0.17,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL314,38.934261,-76.95555,38389,33781,0.17,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL315,38.934261,-76.95555,33398,29390,0.17,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL316,38.934732,-76.732149,8733,8209,0.25,100,No action
+CELL317,38.934732,-76.732149,10916,10261,0.25,100,No action
+CELL318,38.934732,-76.732149,9497,8927,0.25,100,No action
+CELL319,38.937464,-76.861386,33080,29441,0.27,70,"Undershooter, cell uptilted 20 degrees"
+CELL320,38.937464,-76.861386,41350,36801,0.27,70,"Undershooter, cell uptilted 20 degrees"
+CELL321,38.937464,-76.861386,35975,32017,0.27,70,"Undershooter, cell uptilted 20 degrees"
+CELL322,38.938351,-77.025239,31733,27925,0.09,40,"Undershooter, cell uptilted 20 degrees"
+CELL323,38.938351,-77.025239,39666,34906,0.09,40,"Undershooter, cell uptilted 20 degrees"
+CELL324,38.938351,-77.025239,34510,30368,0.09,40,"Undershooter, cell uptilted 20 degrees"
+CELL325,38.940056,-77.081251,4552,3459,3.73,30,"Overshooter, cell downtilted 20 degrees"
+CELL326,38.940056,-77.081251,5690,4324,3.73,30,"Overshooter, cell downtilted 20 degrees"
+CELL327,38.940056,-77.081251,4950,3762,3.73,30,"Overshooter, cell downtilted 20 degrees"
+CELL328,38.941111,-76.932242,68845,64714,0.08,0,No action
+CELL329,38.941111,-76.932242,86056,80893,0.08,0,No action
+CELL330,38.941111,-76.932242,74869,70376,0.08,0,No action
+CELL331,38.944769,-77.063231,3222,2642,4.45,40,"Overshooter, cell downtilted 20 degrees"
+CELL332,38.944769,-77.063231,4028,3303,4.45,40,"Overshooter, cell downtilted 20 degrees"
+CELL333,38.944769,-77.063231,3504,2873,4.45,40,"Overshooter, cell downtilted 20 degrees"
+CELL334,38.9455,-76.486528,13179,10411,9.02,60,"Overshooter, cell downtilted 20 degrees"
+CELL335,38.9455,-76.486528,16474,13014,9.02,60,"Overshooter, cell downtilted 20 degrees"
+CELL336,38.9455,-76.486528,14332,11322,9.02,60,"Overshooter, cell downtilted 20 degrees"
+CELL337,38.950667,-76.627444,791,688,3.72,90,"Overshooter, cell downtilted 20 degrees"
+CELL338,38.950667,-76.627444,989,860,3.72,50,"Undershooter, cell uptilted 20 degrees"
+CELL339,38.950667,-76.627444,860,748,3.72,50,"Undershooter, cell uptilted 20 degrees"
+CELL340,38.950825,-76.582478,390,382,0.11,10,No action
+CELL341,38.950825,-76.582478,488,478,0.11,10,No action
+CELL342,38.950825,-76.582478,424,415,0.11,10,No action
+CELL343,38.958744,-76.746066,18243,15506,4.99,80,"Overshooter, cell downtilted 20 degrees"
+CELL344,38.958744,-76.746066,22804,19383,4.99,80,"Overshooter, cell downtilted 20 degrees"
+CELL345,38.958744,-76.746066,19839,16863,4.99,80,"Overshooter, cell downtilted 20 degrees"
+CELL346,38.959317,-76.803217,5690,4950,0.48,70,"Undershooter, cell uptilted 20 degrees"
+CELL347,38.959317,-76.803217,7113,6188,0.48,70,"Undershooter, cell uptilted 20 degrees"
+CELL348,38.959317,-76.803217,6188,5383,0.48,70,"Undershooter, cell uptilted 20 degrees"
+CELL349,38.960948,-77.423555,64008,59527,0.42,60,No action
+CELL350,38.960948,-77.423555,80010,74409,0.42,60,No action
+CELL351,38.960948,-77.423555,69609,64736,0.42,60,No action
+CELL352,38.9636,-77.1818,1598,1502,0.16,60,No action
+CELL353,38.9636,-77.1818,1998,1878,0.16,60,No action
+CELL354,38.9636,-77.1818,1738,1633,0.16,60,No action
+CELL355,38.966319,-77.393483,123408,117237,0.34,0,No action
+CELL356,38.966319,-77.393483,154260,146546,0.34,0,No action
+CELL357,38.966319,-77.393483,134206,127495,0.34,0,No action
+CELL358,38.970783,-76.961283,2119,1970,0.14,60,No action
+CELL359,38.970783,-76.961283,2649,2463,0.14,60,No action
+CELL360,38.970783,-76.961283,2304,2142,0.14,60,No action
+CELL361,38.9717,-76.6174,547,503,0.19,100,No action
+CELL362,38.9717,-76.6174,684,629,0.19,100,No action
+CELL363,38.9717,-76.6174,595,547,0.19,100,No action
+CELL364,38.972401,-76.996401,96148,85571,0.28,40,"Undershooter, cell uptilted 20 degrees"
+CELL365,38.972401,-76.996401,120185,106964,0.28,40,"Undershooter, cell uptilted 20 degrees"
+CELL366,38.972401,-76.996401,104561,93058,0.28,40,"Undershooter, cell uptilted 20 degrees"
+CELL367,38.974939,-77.026486,10012,7709,1.77,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL368,38.974939,-77.026486,12515,9636,1.77,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL369,38.974939,-77.026486,10888,8384,1.77,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL370,38.978347,-76.876027,20646,15690,5.78,50,"Overshooter, cell downtilted 20 degrees"
+CELL371,38.978347,-76.876027,25808,19613,5.78,50,"Overshooter, cell downtilted 20 degrees"
+CELL372,38.978347,-76.876027,22453,17063,5.78,50,"Overshooter, cell downtilted 20 degrees"
+CELL373,38.984019,-76.953361,227761,173098,2.82,60,"Overshooter, cell downtilted 20 degrees"
+CELL374,38.984019,-76.953361,284701,216373,2.82,60,"Overshooter, cell downtilted 20 degrees"
+CELL375,38.984019,-76.953361,247690,188244,2.82,60,"Overshooter, cell downtilted 20 degrees"
+CELL376,38.9885,-77.3737,11905,11428,0.34,0,No action
+CELL377,38.9885,-77.3737,14881,14285,0.34,0,No action
+CELL378,38.9885,-77.3737,12947,12428,0.34,0,No action
+CELL379,38.989387,-77.326115,996,866,6.14,50,"Overshooter, cell downtilted 20 degrees"
+CELL380,38.989387,-77.326115,1245,1083,6.14,50,"Overshooter, cell downtilted 20 degrees"
+CELL381,38.989387,-77.326115,1083,942,6.14,50,"Overshooter, cell downtilted 20 degrees"
+CELL382,38.993167,-77.023123,12644,12138,0.09,0,No action
+CELL383,38.993167,-77.023123,15805,15173,0.09,0,No action
+CELL384,38.993167,-77.023123,13750,13200,0.09,0,No action
+CELL385,38.996656,-76.510792,3402,3231,0.24,40,No action
+CELL386,38.996656,-76.510792,4253,4039,0.24,40,No action
+CELL387,38.996656,-76.510792,3700,3514,0.24,40,No action
+CELL388,38.999086,-77.291537,5912,4552,8.31,50,"Overshooter, cell downtilted 20 degrees"
+CELL389,38.999086,-77.291537,7390,5690,8.31,50,"Overshooter, cell downtilted 20 degrees"
+CELL390,38.999086,-77.291537,6429,4950,8.31,50,"Overshooter, cell downtilted 20 degrees"
+CELL391,39.013264,-76.928635,21484,16972,4.71,70,"Overshooter, cell downtilted 20 degrees"
+CELL392,39.013264,-76.928635,26855,21215,4.71,70,"Overshooter, cell downtilted 20 degrees"
+CELL393,39.013264,-76.928635,23364,18457,4.71,70,"Overshooter, cell downtilted 20 degrees"
+CELL394,39.0159,-77.0134,27713,27435,0.18,10,No action
+CELL395,39.0159,-77.0134,34641,34294,0.18,10,No action
+CELL396,39.0159,-77.0134,30138,29836,0.18,10,No action
+CELL397,39.016961,-76.975038,17590,14072,5.75,80,"Overshooter, cell downtilted 20 degrees"
+CELL398,39.016961,-76.975038,21988,17590,5.75,80,"Overshooter, cell downtilted 20 degrees"
+CELL399,39.016961,-76.975038,19129,15303,5.75,80,"Overshooter, cell downtilted 20 degrees"
+CELL400,39.02135,-76.423597,5526,4641,8.86,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL401,39.02135,-76.423597,6908,5801,8.86,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL402,39.02135,-76.423597,6010,5047,8.86,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL403,39.026189,-76.694,5242,4455,7.49,30,"Overshooter, cell downtilted 20 degrees"
+CELL404,39.026189,-76.694,6553,5569,7.49,30,"Overshooter, cell downtilted 20 degrees"
+CELL405,39.026189,-76.694,5701,4845,7.49,30,"Overshooter, cell downtilted 20 degrees"
+CELL406,39.026792,-76.914844,24593,20904,4.71,100,"Overshooter, cell downtilted 20 degrees"
+CELL407,39.026792,-76.914844,30741,26130,4.71,100,"Overshooter, cell downtilted 20 degrees"
+CELL408,39.026792,-76.914844,26745,22733,4.71,100,"Overshooter, cell downtilted 20 degrees"
+CELL409,39.038533,-77.524669,6,5,0.22,0,Tilt value cannot be decreased further
+CELL410,39.038533,-77.524669,8,6,0.22,0,Tilt value cannot be decreased further
+CELL411,39.038533,-77.524669,7,5,0.22,0,Tilt value cannot be decreased further
+CELL412,39.040691,-77.054897,73607,69926,0.38,70,No action
+CELL413,39.040691,-77.054897,92009,87408,0.38,70,No action
+CELL414,39.040691,-77.054897,80048,76045,0.38,70,No action
+CELL415,39.045806,-76.849917,16593,15265,0.45,60,No action
+CELL416,39.045806,-76.849917,20741,19081,0.45,60,No action
+CELL417,39.045806,-76.849917,18045,16601,0.45,60,No action
+CELL418,39.0584,-76.511017,1593,1545,0.24,70,No action
+CELL419,39.0584,-76.511017,1991,1931,0.24,70,No action
+CELL420,39.0584,-76.511017,1732,1680,0.24,70,No action
+CELL421,39.068306,-78.185694,160,121,57.01,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL422,39.068306,-78.185694,200,151,57.01,80,"Undershooter, cell uptilted 20 degrees"
+CELL423,39.068306,-78.185694,174,132,57.01,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL424,39.074992,-76.942228,40497,37662,0.32,40,No action
+CELL425,39.074992,-76.942228,50621,47078,0.32,40,No action
+CELL426,39.074992,-76.942228,44040,40957,0.32,40,No action
+CELL427,39.082978,-77.515733,60,51,4.38,60,"Undershooter, cell uptilted 20 degrees"
+CELL428,39.082978,-77.515733,75,64,4.38,60,"Undershooter, cell uptilted 20 degrees"
+CELL429,39.082978,-77.515733,65,55,4.38,100,"Overshooter, cell downtilted 20 degrees"
+CELL430,39.088481,-76.711281,22124,16593,7.49,40,"Overshooter, cell downtilted 20 degrees"
+CELL431,39.088481,-76.711281,27655,20741,7.49,40,"Overshooter, cell downtilted 20 degrees"
+CELL432,39.088481,-76.711281,24060,18045,7.49,40,"Overshooter, cell downtilted 20 degrees"
+CELL433,39.089125,-76.553978,9433,7829,7.36,60,"Overshooter, cell downtilted 20 degrees"
+CELL434,39.089125,-76.553978,11791,9786,7.36,60,"Overshooter, cell downtilted 20 degrees"
+CELL435,39.089125,-76.553978,10258,8514,7.36,60,"Overshooter, cell downtilted 20 degrees"
+CELL436,39.0997,-76.6294,19909,14931,7.68,90,"Overshooter, cell downtilted 20 degrees"
+CELL437,39.0997,-76.6294,24886,18664,7.68,90,"Overshooter, cell downtilted 20 degrees"
+CELL438,39.0997,-76.6294,21651,16237,7.68,90,"Overshooter, cell downtilted 20 degrees"
+CELL439,39.103156,-77.154156,30788,29864,0.24,50,No action
+CELL440,39.103156,-77.154156,38485,37330,0.24,50,No action
+CELL441,39.103156,-77.154156,33482,32477,0.24,50,No action
+CELL442,39.115597,-77.263287,9,8,0.22,70,"Undershooter, cell uptilted 20 degrees"
+CELL443,39.115597,-77.263287,11,10,0.22,90,No action
+CELL444,39.115597,-77.263287,10,9,0.22,90,No action
+CELL445,39.122101,-77.221801,33648,31629,0.27,0,No action
+CELL446,39.122101,-77.221801,42060,39536,0.27,0,No action
+CELL447,39.122101,-77.221801,36592,34397,0.27,0,No action
+CELL448,39.123961,-76.434844,2738,2601,0.44,10,No action
+CELL449,39.123961,-76.434844,3423,3251,0.44,10,No action
+CELL450,39.123961,-76.434844,2978,2829,0.44,10,No action
+CELL451,39.125211,-77.0182,2478,2428,0.42,80,No action
+CELL452,39.125211,-77.0182,3098,3035,0.42,80,No action
+CELL453,39.125211,-77.0182,2695,2640,0.42,80,No action
+CELL454,39.126528,-76.53372,12075,9297,7.36,30,"Overshooter, cell downtilted 20 degrees"
+CELL455,39.126528,-76.53372,15094,11621,7.36,30,"Overshooter, cell downtilted 20 degrees"
+CELL456,39.126528,-76.53372,13132,10110,7.36,30,"Overshooter, cell downtilted 20 degrees"
+CELL457,39.126692,-76.672294,5833,5191,0.3,60,"Undershooter, cell uptilted 20 degrees"
+CELL458,39.126692,-76.672294,7291,6489,0.3,60,"Undershooter, cell uptilted 20 degrees"
+CELL459,39.126692,-76.672294,6343,5645,0.3,60,"Undershooter, cell uptilted 20 degrees"
+CELL460,39.126972,-76.789111,6551,5633,5.11,20,"Overshooter, cell downtilted 20 degrees"
+CELL461,39.126972,-76.789111,8189,7041,5.11,0,Tilt value cannot be decreased further
+CELL462,39.126972,-76.789111,7124,6126,5.11,20,"Overshooter, cell downtilted 20 degrees"
+CELL463,39.132422,-76.651136,54504,49598,0.35,30,No action
+CELL464,39.132422,-76.651136,68130,61998,0.35,30,No action
+CELL465,39.132422,-76.651136,59273,53938,0.35,30,No action
+CELL466,39.133556,-77.068,3295,2537,8.2,20,"Overshooter, cell downtilted 20 degrees"
+CELL467,39.133556,-77.068,4119,3171,8.2,20,"Overshooter, cell downtilted 20 degrees"
+CELL468,39.133556,-77.068,3583,2759,8.2,20,"Overshooter, cell downtilted 20 degrees"
+CELL469,39.134722,-77.141861,9954,8361,4.72,50,"Overshooter, cell downtilted 20 degrees"
+CELL470,39.134722,-77.141861,12443,10451,4.72,10,"Undershooter, cell uptilted 20 degrees"
+CELL471,39.134722,-77.141861,10825,9093,4.72,50,"Overshooter, cell downtilted 20 degrees"
+CELL472,39.1353,-76.5964,97877,95919,0.34,0,No action
+CELL473,39.1353,-76.5964,122346,119899,0.34,0,No action
+CELL474,39.1353,-76.5964,106441,104312,0.34,0,No action
+CELL475,39.143017,-76.4788,9945,8254,12.61,100,"Overshooter, cell downtilted 20 degrees"
+CELL476,39.143017,-76.4788,12431,10318,12.61,100,"Overshooter, cell downtilted 20 degrees"
+CELL477,39.143017,-76.4788,10815,8976,12.61,100,"Overshooter, cell downtilted 20 degrees"
+CELL478,39.149739,-77.200502,90267,67700,0.18,70,"Overshooter, cell downtilted 20 degrees"
+CELL479,39.149739,-77.200502,112834,84625,0.18,30,"Undershooter, cell uptilted 20 degrees"
+CELL480,39.149739,-77.200502,98165,73624,0.18,70,"Overshooter, cell downtilted 20 degrees"
+CELL481,39.14986,-77.201499,47833,36353,0.16,80,"Overshooter, cell downtilted 20 degrees"
+CELL482,39.14986,-77.201499,59791,45441,0.16,80,"Overshooter, cell downtilted 20 degrees"
+CELL483,39.14986,-77.201499,52018,39534,0.16,40,"Undershooter, cell uptilted 20 degrees"
+CELL484,39.150207,-77.201022,109472,83198,0.16,0,"Undershooter, cell uptilted 20 degrees"
+CELL485,39.150207,-77.201022,136840,103998,0.16,40,"Overshooter, cell downtilted 20 degrees"
+CELL486,39.150207,-77.201022,119051,90478,0.16,40,"Overshooter, cell downtilted 20 degrees"
+CELL487,39.151944,-76.803333,23614,19599,5.11,70,"Overshooter, cell downtilted 20 degrees"
+CELL488,39.151944,-76.803333,29518,24499,5.11,70,"Overshooter, cell downtilted 20 degrees"
+CELL489,39.151944,-76.803333,25680,21314,5.11,30,"Undershooter, cell uptilted 20 degrees"
+CELL490,39.155139,-77.253586,25442,22897,0.22,80,"Undershooter, cell uptilted 20 degrees"
+CELL491,39.155139,-77.253586,31803,28621,0.22,80,"Undershooter, cell uptilted 20 degrees"
+CELL492,39.155139,-77.253586,27668,24900,0.22,80,"Undershooter, cell uptilted 20 degrees"
+CELL493,39.156238,-77.092503,3912,3677,0.42,10,No action
+CELL494,39.156238,-77.092503,4890,4596,0.42,10,No action
+CELL495,39.156238,-77.092503,4254,3999,0.42,10,No action
+CELL496,39.165228,-77.2908,18984,15946,6.18,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL497,39.165228,-77.2908,23730,19933,6.18,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL498,39.165228,-77.2908,20645,17341,6.18,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL499,39.171489,-77.157789,19589,16062,5.21,90,"Overshooter, cell downtilted 20 degrees"
+CELL500,39.171489,-77.157789,24486,20078,5.21,90,"Overshooter, cell downtilted 20 degrees"
+CELL501,39.171489,-77.157789,21303,17467,5.21,90,"Overshooter, cell downtilted 20 degrees"
+CELL502,39.178089,-76.875578,6978,5721,10.28,80,"Overshooter, cell downtilted 20 degrees"
+CELL503,39.178089,-76.875578,8723,7151,10.28,80,"Overshooter, cell downtilted 20 degrees"
+CELL504,39.178089,-76.875578,7589,6222,10.28,80,"Overshooter, cell downtilted 20 degrees"
+CELL505,39.184606,-77.213733,34511,32785,0.24,0,No action
+CELL506,39.184606,-77.213733,43139,40981,0.24,0,No action
+CELL507,39.184606,-77.213733,37531,35654,0.24,0,No action
+CELL508,39.1881,-76.8166,22638,18110,3.56,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL509,39.1881,-76.8166,28298,22638,3.56,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL510,39.1881,-76.8166,24619,19695,3.56,70,"Undershooter, cell uptilted 20 degrees"
+CELL511,39.1959,-76.6807,36121,35037,0.3,40,No action
+CELL512,39.1959,-76.6807,45151,43796,0.3,40,No action
+CELL513,39.1959,-76.6807,39282,38103,0.3,40,No action
+CELL514,39.212467,-77.275472,30806,26185,6.18,0,"Undershooter, cell uptilted 20 degrees"
+CELL515,39.212467,-77.275472,38508,32731,6.18,40,"Overshooter, cell downtilted 20 degrees"
+CELL516,39.212467,-77.275472,33502,28476,6.18,40,"Overshooter, cell downtilted 20 degrees"
+CELL517,39.213301,-76.939401,7249,5871,10.47,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL518,39.213301,-76.939401,9061,7339,10.47,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL519,39.213301,-76.939401,7883,6385,10.47,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL520,39.2225,-76.5986,117713,90639,5.35,70,"Overshooter, cell downtilted 20 degrees"
+CELL521,39.2225,-76.5986,147141,113299,5.35,70,"Overshooter, cell downtilted 20 degrees"
+CELL522,39.2225,-76.5986,128013,98570,5.35,70,"Overshooter, cell downtilted 20 degrees"
+CELL523,39.2265,-76.8105,26526,23873,0.18,10,"Undershooter, cell uptilted 20 degrees"
+CELL524,39.2265,-76.8105,33158,29841,0.18,10,"Undershooter, cell uptilted 20 degrees"
+CELL525,39.2265,-76.8105,28847,25962,0.18,10,"Undershooter, cell uptilted 20 degrees"
+CELL526,39.227037,-76.714566,15005,14404,0.15,10,No action
+CELL527,39.227037,-76.714566,18756,18005,0.15,10,No action
+CELL528,39.227037,-76.714566,16318,15664,0.15,10,No action
+CELL529,39.23243,-76.7821,2349,1949,8.37,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL530,39.23243,-76.7821,2936,2436,8.37,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL531,39.23243,-76.7821,2555,2120,8.37,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL532,39.246216,-77.206995,3952,3872,0.25,70,No action
+CELL533,39.246216,-77.206995,4940,4840,0.25,70,No action
+CELL534,39.246216,-77.206995,4298,4211,0.25,70,No action
+CELL535,39.256871,-76.524942,105953,93238,0.16,20,"Undershooter, cell uptilted 20 degrees"
+CELL536,39.256871,-76.524942,132441,116548,0.16,20,"Undershooter, cell uptilted 20 degrees"
+CELL537,39.256871,-76.524942,115224,101396,0.16,20,"Undershooter, cell uptilted 20 degrees"
+CELL538,39.258996,-76.659329,112894,94830,2.53,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL539,39.258996,-76.659329,141118,118538,2.53,80,"Undershooter, cell uptilted 20 degrees"
+CELL540,39.258996,-76.659329,122772,103128,2.53,80,"Undershooter, cell uptilted 20 degrees"
+CELL541,39.266201,-76.714601,35226,28885,2.87,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL542,39.266201,-76.714601,44033,36106,2.87,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL543,39.266201,-76.714601,38308,31412,2.87,80,"Undershooter, cell uptilted 20 degrees"
+CELL544,39.268023,-76.610701,95231,78089,1.87,90,"Overshooter, cell downtilted 20 degrees"
+CELL545,39.268023,-76.610701,119039,97611,1.87,90,"Overshooter, cell downtilted 20 degrees"
+CELL546,39.268023,-76.610701,103564,84922,1.87,50,"Undershooter, cell uptilted 20 degrees"
+CELL547,39.272,-76.55611,81313,65050,4.69,60,"Overshooter, cell downtilted 20 degrees"
+CELL548,39.272,-76.55611,101641,81313,4.69,60,"Overshooter, cell downtilted 20 degrees"
+CELL549,39.272,-76.55611,88428,70742,4.69,60,"Overshooter, cell downtilted 20 degrees"
+CELL550,39.274847,-76.625689,123619,108784,0.1,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL551,39.274847,-76.625689,154524,135980,0.1,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL552,39.274847,-76.625689,134436,118303,0.1,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL553,39.276856,-76.836975,4920,4083,7.17,30,"Overshooter, cell downtilted 20 degrees"
+CELL554,39.276856,-76.836975,6150,5104,7.17,30,"Overshooter, cell downtilted 20 degrees"
+CELL555,39.276856,-76.836975,5351,4440,7.17,30,"Overshooter, cell downtilted 20 degrees"
+CELL556,39.277739,-76.815478,17122,13526,4.24,30,"Undershooter, cell uptilted 20 degrees"
+CELL557,39.277739,-76.815478,21403,16908,4.24,70,"Overshooter, cell downtilted 20 degrees"
+CELL558,39.277739,-76.815478,18620,14710,4.24,70,"Overshooter, cell downtilted 20 degrees"
+CELL559,39.286313,-76.569774,63791,58687,0.13,0,No action
+CELL560,39.286313,-76.569774,79739,73359,0.13,0,No action
+CELL561,39.286313,-76.569774,69373,63822,0.13,0,No action
+CELL562,39.28756,-76.607393,131844,102838,1.87,60,"Overshooter, cell downtilted 20 degrees"
+CELL563,39.28756,-76.607393,164805,128548,1.87,60,"Overshooter, cell downtilted 20 degrees"
+CELL564,39.28756,-76.607393,143380,111836,1.87,60,"Overshooter, cell downtilted 20 degrees"
+CELL565,39.288575,-76.429561,10114,9608,0.63,50,No action
+CELL566,39.288575,-76.429561,12643,12010,0.63,50,No action
+CELL567,39.288575,-76.429561,10999,10449,0.63,50,No action
+CELL568,39.289083,-76.592889,80107,72096,0.12,70,"Undershooter, cell uptilted 20 degrees"
+CELL569,39.289083,-76.592889,100134,90120,0.12,70,"Undershooter, cell uptilted 20 degrees"
+CELL570,39.289083,-76.592889,87116,78404,0.12,70,"Undershooter, cell uptilted 20 degrees"
+CELL571,39.290086,-76.656864,279019,217634,1.53,80,"Overshooter, cell downtilted 20 degrees"
+CELL572,39.290086,-76.656864,348774,272043,1.53,40,"Undershooter, cell uptilted 20 degrees"
+CELL573,39.290086,-76.656864,303433,236677,1.53,80,"Overshooter, cell downtilted 20 degrees"
+CELL574,39.294434,-76.621471,48777,45850,0.09,20,No action
+CELL575,39.294434,-76.621471,60971,57313,0.09,20,No action
+CELL576,39.294434,-76.621471,53045,49862,0.09,20,No action
+CELL577,39.295682,-76.505713,109261,89594,6.28,30,"Overshooter, cell downtilted 20 degrees"
+CELL578,39.295682,-76.505713,136576,111993,6.28,30,"Overshooter, cell downtilted 20 degrees"
+CELL579,39.295682,-76.505713,118821,97433,6.28,30,"Overshooter, cell downtilted 20 degrees"
+CELL580,39.297581,-76.524519,72545,67466,0.16,0,No action
+CELL581,39.297581,-76.524519,90681,84333,0.16,0,No action
+CELL582,39.297581,-76.524519,78893,73369,0.16,0,No action
+CELL583,39.30319,-76.71325,32842,32513,0.14,10,No action
+CELL584,39.30319,-76.71325,41053,40641,0.14,10,No action
+CELL585,39.30319,-76.71325,35716,35358,0.14,10,No action
+CELL586,39.304228,-76.660081,245492,243037,0.08,10,No action
+CELL587,39.304228,-76.660081,306865,303796,0.08,10,No action
+CELL588,39.304228,-76.660081,266973,264303,0.08,10,No action
+CELL589,39.310472,-76.86886,1446,1214,10.28,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL590,39.310472,-76.86886,1808,1518,10.28,30,"Overshooter, cell downtilted 20 degrees"
+CELL591,39.310472,-76.86886,1573,1320,10.28,30,"Overshooter, cell downtilted 20 degrees"
+CELL592,39.317342,-76.623296,208790,200438,0.07,50,No action
+CELL593,39.317342,-76.623296,260988,250548,0.07,50,No action
+CELL594,39.317342,-76.623296,227059,217976,0.07,50,No action
+CELL595,39.317791,-76.595879,277678,219365,2.43,40,"Overshooter, cell downtilted 20 degrees"
+CELL596,39.317791,-76.595879,347098,274206,2.43,40,"Overshooter, cell downtilted 20 degrees"
+CELL597,39.317791,-76.595879,301975,238559,2.43,40,"Overshooter, cell downtilted 20 degrees"
+CELL598,39.320201,-76.568901,232672,223365,0.13,80,No action
+CELL599,39.320201,-76.568901,290840,279206,0.13,80,No action
+CELL600,39.320201,-76.568901,253031,242909,0.13,80,No action
+CELL601,39.323201,-76.746601,82680,64490,7.24,70,"Overshooter, cell downtilted 20 degrees"
+CELL602,39.323201,-76.746601,103350,80613,7.24,70,"Overshooter, cell downtilted 20 degrees"
+CELL603,39.323201,-76.746601,89915,70133,7.24,70,"Overshooter, cell downtilted 20 degrees"
+CELL604,39.324253,-76.661614,163962,160682,0.08,80,No action
+CELL605,39.324253,-76.661614,204953,200853,0.08,80,No action
+CELL606,39.324253,-76.661614,178309,174742,0.08,80,No action
+CELL607,39.327564,-76.471147,37792,35146,0.22,10,No action
+CELL608,39.327564,-76.471147,47240,43933,0.22,10,No action
+CELL609,39.327564,-76.471147,41099,38221,0.22,10,No action
+CELL610,39.32759,-76.63953,25571,23013,0.27,0,"Undershooter, cell uptilted 20 degrees"
+CELL611,39.32759,-76.63953,31964,28766,0.27,0,"Undershooter, cell uptilted 20 degrees"
+CELL612,39.32759,-76.63953,27808,25027,0.27,0,"Undershooter, cell uptilted 20 degrees"
+CELL613,39.329503,-77.188644,3,2,8.68,80,"Undershooter, cell uptilted 20 degrees"
+CELL614,39.329503,-77.188644,4,3,8.68,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL615,39.329503,-77.188644,3,2,8.68,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL616,39.333028,-78.02375,5,3,15.52,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL617,39.333028,-78.02375,6,4,15.52,80,"Undershooter, cell uptilted 20 degrees"
+CELL618,39.333028,-78.02375,5,3,15.52,80,"Undershooter, cell uptilted 20 degrees"
+CELL619,39.336314,-76.623245,34995,31845,0.01,20,No action
+CELL620,39.336314,-76.623245,43744,39806,0.01,20,No action
+CELL621,39.336314,-76.623245,38057,34631,0.01,20,No action
+CELL622,39.336541,-76.622836,44929,38189,0.14,40,"Undershooter, cell uptilted 20 degrees"
+CELL623,39.336541,-76.622836,56161,47736,0.14,40,"Undershooter, cell uptilted 20 degrees"
+CELL624,39.336541,-76.622836,48860,41531,0.14,80,"Overshooter, cell downtilted 20 degrees"
+CELL625,39.336592,-76.674958,183104,170286,0.2,60,No action
+CELL626,39.336592,-76.674958,228880,212858,0.2,60,No action
+CELL627,39.336592,-76.674958,199126,185186,0.2,60,No action
+CELL628,39.3544,-76.685934,250582,230535,0.2,60,No action
+CELL629,39.3544,-76.685934,313228,288169,0.2,60,No action
+CELL630,39.3544,-76.685934,272508,250707,0.2,60,No action
+CELL631,39.356986,-76.590389,127931,112579,0.18,20,"Undershooter, cell uptilted 20 degrees"
+CELL632,39.356986,-76.590389,159914,140724,0.18,20,"Undershooter, cell uptilted 20 degrees"
+CELL633,39.356986,-76.590389,139125,122430,0.18,20,"Undershooter, cell uptilted 20 degrees"
+CELL634,39.358344,-76.395608,26060,20326,11.02,20,"Overshooter, cell downtilted 20 degrees"
+CELL635,39.358344,-76.395608,32575,25408,11.02,20,"Overshooter, cell downtilted 20 degrees"
+CELL636,39.358344,-76.395608,28340,22105,11.02,20,"Overshooter, cell downtilted 20 degrees"
+CELL637,39.3627,-76.4818,7653,6351,2.88,50,"Overshooter, cell downtilted 20 degrees"
+CELL638,39.3627,-76.4818,9566,7939,2.88,50,"Overshooter, cell downtilted 20 degrees"
+CELL639,39.3627,-76.4818,8323,6907,2.88,10,"Undershooter, cell uptilted 20 degrees"
+CELL640,39.370167,-77.514783,678,671,0.42,20,No action
+CELL641,39.370167,-77.514783,848,839,0.42,20,No action
+CELL642,39.370167,-77.514783,737,730,0.42,20,No action
+CELL643,39.377639,-76.722222,31983,29104,0.31,40,No action
+CELL644,39.377639,-76.722222,39979,36380,0.31,40,No action
+CELL645,39.377639,-76.722222,34782,31651,0.31,40,No action
+CELL646,39.381111,-76.763784,23788,22598,0.01,90,No action
+CELL647,39.381111,-76.763784,29735,28248,0.01,90,No action
+CELL648,39.381111,-76.763784,25869,24575,0.01,90,No action
+CELL649,39.381494,-76.764954,12051,10243,0.17,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL650,39.381494,-76.764954,15064,12804,0.17,30,"Overshooter, cell downtilted 20 degrees"
+CELL651,39.381494,-76.764954,13105,11139,0.17,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL652,39.381681,-76.764445,9321,7456,0.17,30,"Undershooter, cell uptilted 20 degrees"
+CELL653,39.381681,-76.764445,11651,9320,0.17,70,"Overshooter, cell downtilted 20 degrees"
+CELL654,39.381681,-76.764445,10137,8108,0.17,70,"Overshooter, cell downtilted 20 degrees"
+CELL655,39.389025,-76.611374,10608,9122,4.35,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL656,39.389025,-76.611374,13260,11403,4.35,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL657,39.389025,-76.611374,11536,9920,4.35,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL658,39.389788,-76.624424,8479,7207,2.9,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL659,39.389788,-76.624424,10599,9009,2.9,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL660,39.389788,-76.624424,9221,7838,2.9,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL661,39.39464,-77.32979,8,6,7.28,40,"Overshooter, cell downtilted 20 degrees"
+CELL662,39.39464,-77.32979,10,8,7.28,40,"Overshooter, cell downtilted 20 degrees"
+CELL663,39.39464,-77.32979,9,7,7.28,40,"Overshooter, cell downtilted 20 degrees"
+CELL664,39.396775,-76.478508,23064,21449,0.14,20,No action
+CELL665,39.396775,-76.478508,28830,26811,0.14,20,No action
+CELL666,39.396775,-76.478508,25082,23326,0.14,20,No action
+CELL667,39.408028,-76.6653,4934,4144,6.37,90,"Overshooter, cell downtilted 20 degrees"
+CELL668,39.408028,-76.6653,6168,5180,6.37,90,"Overshooter, cell downtilted 20 degrees"
+CELL669,39.408028,-76.6653,5366,4507,6.37,90,"Overshooter, cell downtilted 20 degrees"
+CELL670,39.412472,-77.351258,55,47,7.28,50,"Overshooter, cell downtilted 20 degrees"
+CELL671,39.412472,-77.351258,69,59,7.28,50,"Overshooter, cell downtilted 20 degrees"
+CELL672,39.412472,-77.351258,60,51,7.28,50,"Overshooter, cell downtilted 20 degrees"
+CELL673,39.414943,-76.630891,1553,1242,0.08,90,"Overshooter, cell downtilted 20 degrees"
+CELL674,39.414943,-76.630891,1941,1553,0.08,50,"Undershooter, cell uptilted 20 degrees"
+CELL675,39.414943,-76.630891,1689,1351,0.08,50,"Undershooter, cell uptilted 20 degrees"
+CELL676,39.415097,-76.460356,16388,15568,0.18,70,No action
+CELL677,39.415097,-76.460356,20485,19460,0.18,70,No action
+CELL678,39.415097,-76.460356,17822,16930,0.18,70,No action
+CELL679,39.416032,-76.630885,1724,1706,0.0,60,No action
+CELL680,39.416032,-76.630885,2155,2133,0.0,60,No action
+CELL681,39.416032,-76.630885,1875,1855,0.0,60,No action
+CELL682,39.417572,-76.558953,8750,7262,8.24,40,"Overshooter, cell downtilted 20 degrees"
+CELL683,39.417572,-76.558953,10938,9078,8.24,40,"Overshooter, cell downtilted 20 degrees"
+CELL684,39.417572,-76.558953,9516,7897,8.24,40,"Overshooter, cell downtilted 20 degrees"
+CELL685,39.421533,-77.401178,540,502,0.83,70,No action
+CELL686,39.421533,-77.401178,675,628,0.83,70,No action
+CELL687,39.421533,-77.401178,587,546,0.83,70,No action
+CELL688,39.428431,-76.364,12074,11108,0.47,80,No action
+CELL689,39.428431,-76.364,15093,13885,0.47,80,No action
+CELL690,39.428431,-76.364,13130,12080,0.47,80,No action
+CELL691,39.429233,-76.450081,1331,1211,0.18,90,No action
+CELL692,39.429233,-76.450081,1664,1514,0.18,90,No action
+CELL693,39.429233,-76.450081,1447,1317,0.18,90,No action
+CELL694,39.436389,-76.629167,12605,11344,0.08,70,"Undershooter, cell uptilted 20 degrees"
+CELL695,39.436389,-76.629167,15756,14180,0.08,70,"Undershooter, cell uptilted 20 degrees"
+CELL696,39.436389,-76.629167,13708,12337,0.08,70,"Undershooter, cell uptilted 20 degrees"
+CELL697,39.438178,-77.493997,172,158,0.42,10,No action
+CELL698,39.438178,-77.493997,215,198,0.42,10,No action
+CELL699,39.438178,-77.493997,187,172,0.42,10,No action
+CELL700,39.453667,-76.7284,4177,3508,6.18,10,"Undershooter, cell uptilted 20 degrees"
+CELL701,39.453667,-76.7284,5221,4385,6.18,50,"Overshooter, cell downtilted 20 degrees"
+CELL702,39.453667,-76.7284,4542,3815,6.18,50,"Overshooter, cell downtilted 20 degrees"
+CELL703,39.459683,-76.596185,2800,2380,7.45,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL704,39.459683,-76.596185,3500,2975,7.45,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL705,39.459683,-76.596185,3045,2588,7.45,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL706,39.475798,-77.987896,1363,1199,0.78,90,"Overshooter, cell downtilted 20 degrees"
+CELL707,39.475798,-77.987896,1704,1499,0.78,50,"Undershooter, cell uptilted 20 degrees"
+CELL708,39.475798,-77.987896,1482,1304,0.78,50,"Undershooter, cell uptilted 20 degrees"
+CELL709,39.487936,-76.245161,16790,13599,4.54,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL710,39.487936,-76.245161,20988,16999,4.54,70,"Undershooter, cell uptilted 20 degrees"
+CELL711,39.487936,-76.245161,18259,14789,4.54,70,"Undershooter, cell uptilted 20 degrees"
+CELL712,39.4945,-76.3876,6600,6402,0.47,0,No action
+CELL713,39.4945,-76.3876,8250,8003,0.47,0,No action
+CELL714,39.4945,-76.3876,7178,6962,0.47,0,No action
+CELL715,39.504153,-76.328383,11488,11028,0.29,80,No action
+CELL716,39.504153,-76.328383,14360,13785,0.29,80,No action
+CELL717,39.504153,-76.328383,12493,11993,0.29,80,No action
+CELL718,39.509671,-76.173161,32818,32161,0.63,70,No action
+CELL719,39.509671,-76.173161,41023,40201,0.63,70,No action
+CELL720,39.509671,-76.173161,35690,34975,0.63,70,No action
+CELL721,39.514231,-76.652058,3252,2569,9.29,30,"Undershooter, cell uptilted 20 degrees"
+CELL722,39.514231,-76.652058,4065,3211,9.29,70,"Overshooter, cell downtilted 20 degrees"
+CELL723,39.514231,-76.652058,3537,2794,9.29,70,"Overshooter, cell downtilted 20 degrees"
+CELL724,39.526,-76.235,691,601,3.02,50,"Overshooter, cell downtilted 20 degrees"
+CELL725,39.526,-76.235,864,751,3.02,10,"Undershooter, cell uptilted 20 degrees"
+CELL726,39.526,-76.235,751,654,3.02,50,"Overshooter, cell downtilted 20 degrees"
+CELL727,39.534147,-76.120872,9165,8431,0.88,100,No action
+CELL728,39.534147,-76.120872,11456,10539,0.88,100,No action
+CELL729,39.534147,-76.120872,9967,9169,0.88,100,No action
+CELL730,39.537669,-76.210636,561,482,8.18,70,"Overshooter, cell downtilted 20 degrees"
+CELL731,39.537669,-76.210636,701,603,8.18,70,"Overshooter, cell downtilted 20 degrees"
+CELL732,39.537669,-76.210636,610,524,8.18,70,"Overshooter, cell downtilted 20 degrees"
+CELL733,39.557486,-76.240086,1997,1737,0.15,30,"Overshooter, cell downtilted 20 degrees"
+CELL734,39.557486,-76.240086,2496,2171,0.15,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL735,39.557486,-76.240086,2172,1889,0.15,0,"Undershooter, cell uptilted less than 20 degrees"
+CELL736,39.566417,-76.511,284,213,12.42,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL737,39.566417,-76.511,355,266,12.42,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL738,39.566417,-76.511,309,232,12.42,100,"Overshooter, cell downtilted less than 20 degrees"
+CELL739,39.570231,-76.320269,10925,8521,5.87,50,"Overshooter, cell downtilted 20 degrees"
+CELL740,39.570231,-76.320269,13656,10651,5.87,10,"Undershooter, cell uptilted 20 degrees"
+CELL741,39.570231,-76.320269,11881,9267,5.87,50,"Overshooter, cell downtilted 20 degrees"
+CELL742,39.602178,-76.3422,2491,2441,0.39,40,No action
+CELL743,39.602178,-76.3422,3114,3051,0.39,40,No action
+CELL744,39.602178,-76.3422,2709,2655,0.39,40,No action
+CELL745,39.607111,-76.461667,524,393,14.42,30,"Overshooter, cell downtilted 20 degrees"
+CELL746,39.607111,-76.461667,655,491,14.42,30,"Overshooter, cell downtilted 20 degrees"
+CELL747,39.607111,-76.461667,570,427,14.42,30,"Overshooter, cell downtilted 20 degrees"
+CELL748,39.608333,-76.546944,384,318,12.42,40,"Overshooter, cell downtilted 20 degrees"
+CELL749,39.608333,-76.546944,480,398,12.42,40,"Overshooter, cell downtilted 20 degrees"
+CELL750,39.608333,-76.546944,418,346,12.42,40,"Overshooter, cell downtilted 20 degrees"
